@@ -18,7 +18,7 @@ https://www.w3schools.com/sql/sql_insert.asp
 */
 
 INSERT INTO Users
-VALUES ('Paluch', 'Filip', 30, 'Italy')
+VALUES ('Krakowski', 'Wojtek', 30, 'Italy')
 
 INSERT INTO Users
 VALUES ('Krychowski', 'Damian', 31, 'Poland')
